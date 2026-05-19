@@ -1,0 +1,22 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="40" fill="#0A1418"/>
+  <rect x="32" y="32" width="1136" height="656" rx="28" fill="#102025" stroke="rgba(255,255,255,0.10)"/>
+  <circle cx="980" cy="150" r="132" fill="url(#g1)"/>
+  <rect x="100" y="108" width="300" height="500" rx="32" fill="#13252B"/>
+  <rect x="450" y="108" width="650" height="500" rx="32" fill="#13252B"/>
+  <rect x="142" y="182" width="216" height="20" rx="10" fill="#22393E"/>
+  <rect x="142" y="228" width="186" height="20" rx="10" fill="#22393E"/>
+  <rect x="142" y="274" width="230" height="20" rx="10" fill="#22393E"/>
+  <rect x="142" y="360" width="170" height="42" rx="21" fill="#89F0AF" fill-opacity="0.16"/>
+  <rect x="508" y="170" width="534" height="18" rx="9" fill="#22393E"/>
+  <rect x="508" y="214" width="468" height="18" rx="9" fill="#22393E"/>
+  <rect x="508" y="258" width="498" height="18" rx="9" fill="#22393E"/>
+  <rect x="508" y="332" width="412" height="18" rx="9" fill="#22393E"/>
+  <rect x="508" y="376" width="454" height="18" rx="9" fill="#22393E"/>
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 150) rotate(90) scale(132)">
+      <stop stop-color="#F59E0B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="40" fill="#0A1418"/>
+  <rect x="32" y="32" width="1136" height="656" rx="28" fill="#0E1D22" stroke="rgba(255,255,255,0.1)"/>
+  <circle cx="944" cy="162" r="144" fill="url(#glow)"/>
+  <text x="88" y="86" fill="#89F0AF" font-family="Arial, sans-serif" font-size="28" letter-spacing="4">LLM COMPARISON FYP</text>
+  <text x="88" y="174" fill="#F6FAF8" font-family="Arial, sans-serif" font-size="52" font-weight="700">Streaming Model Evaluation</text>
+  <text x="88" y="226" fill="#B8CDC4" font-family="Arial, sans-serif" font-size="24">Compare prompts, outputs, and behavior across providers</text>
+  <rect x="88" y="292" width="316" height="300" rx="28" fill="#13252B"/>
+  <rect x="438" y="292" width="316" height="300" rx="28" fill="#13252B"/>
+  <rect x="788" y="292" width="316" height="300" rx="28" fill="#13252B"/>
+  <text x="126" y="346" fill="#F6FAF8" font-family="Arial, sans-serif" font-size="30" font-weight="700">Prompt panel</text>
+  <text x="476" y="346" fill="#F6FAF8" font-family="Arial, sans-serif" font-size="30" font-weight="700">Model outputs</text>
+  <text x="826" y="346" fill="#F6FAF8" font-family="Arial, sans-serif" font-size="30" font-weight="700">Insights layer</text>
+  <rect x="126" y="392" width="240" height="14" rx="7" fill="#22393E"/>
+  <rect x="126" y="424" width="210" height="14" rx="7" fill="#22393E"/>
+  <rect x="126" y="456" width="226" height="14" rx="7" fill="#22393E"/>
+  <rect x="476" y="392" width="240" height="14" rx="7" fill="#22393E"/>
+  <rect x="476" y="424" width="240" height="14" rx="7" fill="#22393E"/>
+  <rect x="826" y="392" width="240" height="14" rx="7" fill="#22393E"/>
+  <rect x="826" y="424" width="180" height="14" rx="7" fill="#22393E"/>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(944 162) rotate(90) scale(144)">
+      <stop stop-color="#F59E0B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

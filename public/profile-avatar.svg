@@ -1,0 +1,40 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" rx="48" fill="url(#bg)"/>
+  <rect x="24" y="24" width="752" height="752" rx="32" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <circle cx="400" cy="280" r="116" fill="url(#face)"/>
+  <path d="M242 650C242 551.68 321.68 472 420 472H380C478.32 472 558 551.68 558 650V676H242V650Z" fill="url(#body)"/>
+  <path d="M510 224C510 287.93 458.17 340 394.24 340H339C275.07 340 223 287.93 223 224C223 160.07 275.07 108 339 108H394.24C458.17 108 510 160.07 510 224Z" fill="#091416"/>
+  <path d="M356 240C386 214 430 212 466 232" stroke="#0D181B" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="356" cy="286" r="10" fill="#0D181B"/>
+  <circle cx="450" cy="286" r="10" fill="#0D181B"/>
+  <path d="M370 346C389 359.333 416.333 359.333 452 346" stroke="#0D181B" stroke-width="12" stroke-linecap="round"/>
+  <g opacity="0.8">
+    <circle cx="616" cy="162" r="64" fill="url(#glow1)"/>
+    <circle cx="183" cy="606" r="90" fill="url(#glow2)"/>
+  </g>
+  <text x="64" y="116" fill="#F6FAF8" font-family="Arial, sans-serif" font-size="34" letter-spacing="6">FULL-STACK DEVELOPER</text>
+  <text x="64" y="712" fill="#89F0AF" font-family="Arial, sans-serif" font-size="62" font-weight="700">AR</text>
+  <defs>
+    <linearGradient id="bg" x1="130" y1="64" x2="696" y2="756" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11242A"/>
+      <stop offset="0.48" stop-color="#0A1518"/>
+      <stop offset="1" stop-color="#102027"/>
+    </linearGradient>
+    <linearGradient id="face" x1="284" y1="188" x2="507" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DCEEE4"/>
+      <stop offset="1" stop-color="#B8D1C5"/>
+    </linearGradient>
+    <linearGradient id="body" x1="262" y1="482" x2="540" y2="688" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#89F0AF"/>
+      <stop offset="1" stop-color="#2F9E67"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(616 162) rotate(90) scale(64)">
+      <stop stop-color="#89F0AF"/>
+      <stop offset="1" stop-color="#89F0AF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(183 606) rotate(90) scale(90)">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

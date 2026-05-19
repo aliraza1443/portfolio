@@ -1,0 +1,24 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="40" fill="#0A1518"/>
+  <rect x="32" y="32" width="1136" height="656" rx="28" fill="#0F1E23" stroke="rgba(255,255,255,0.1)"/>
+  <circle cx="262" cy="162" r="140" fill="url(#glow)"/>
+  <text x="84" y="84" fill="#89F0AF" font-family="Arial, sans-serif" font-size="28" letter-spacing="4">ACES</text>
+  <text x="84" y="170" fill="#F6FAF8" font-family="Arial, sans-serif" font-size="54" font-weight="700">Assessment & Certification</text>
+  <text x="84" y="224" fill="#B8CDC4" font-family="Arial, sans-serif" font-size="24">Scoring flows, onboarding journeys, audit-friendly infrastructure</text>
+  <rect x="84" y="294" width="460" height="320" rx="30" fill="#13252B" stroke="rgba(255,255,255,0.1)"/>
+  <rect x="584" y="118" width="520" height="220" rx="30" fill="#13252B" stroke="rgba(255,255,255,0.1)"/>
+  <rect x="584" y="372" width="160" height="242" rx="28" fill="#13252B"/>
+  <rect x="774" y="372" width="160" height="242" rx="28" fill="#13252B"/>
+  <rect x="964" y="372" width="140" height="242" rx="28" fill="#13252B"/>
+  <rect x="118" y="344" width="160" height="160" rx="24" fill="#89F0AF" fill-opacity="0.1" stroke="#89F0AF" stroke-opacity="0.18"/>
+  <text x="316" y="388" fill="#F6FAF8" font-family="Arial, sans-serif" font-size="34" font-weight="700">Rule engine</text>
+  <text x="316" y="434" fill="#B8CDC4" font-family="Arial, sans-serif" font-size="22">Flexible evaluation logic for real-world certification paths.</text>
+  <text x="616" y="184" fill="#F6FAF8" font-family="Arial, sans-serif" font-size="34" font-weight="700">Protected admin actions</text>
+  <text x="616" y="228" fill="#B8CDC4" font-family="Arial, sans-serif" font-size="22">RBAC, scoring oversight, payments, and lifecycle controls.</text>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(262 162) rotate(90) scale(140)">
+      <stop stop-color="#3B82F6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
